@@ -1,0 +1,21 @@
+C:\Users\user\AppData\Local\Temporary Projects\VBOnyx\obj\x86\Debug\VBOnyx.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\VBOnyx\obj\x86\Debug\VBOnyx.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\VBOnyx\obj\x86\Debug\VBOnyx.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\VBOnyx\bin\Debug\VBOnyx.exe
+C:\Users\user\AppData\Local\Temporary Projects\VBOnyx\bin\Debug\VBOnyx.pdb
+C:\Users\user\AppData\Local\Temporary Projects\VBOnyx\bin\Debug\VBOnyx.xml
+C:\Users\user\AppData\Local\Temporary Projects\VBOnyx\obj\x86\Debug\VBOnyx.exe
+C:\Users\user\AppData\Local\Temporary Projects\VBOnyx\obj\x86\Debug\VBOnyx.xml
+C:\Users\user\AppData\Local\Temporary Projects\VBOnyx\obj\x86\Debug\VBOnyx.pdb
+D:\ONYX\VBOnyx\VBOnyx\obj\x86\Debug\VBOnyx.exe
+D:\ONYX\VBOnyx\VBOnyx\obj\x86\Debug\VBOnyx.xml
+D:\ONYX\VBOnyx\VBOnyx\obj\x86\Debug\VBOnyx.pdb
+D:\ONYX\VBOnyx\VBOnyx\bin\Debug\VBOnyx.exe
+D:\ONYX\VBOnyx\VBOnyx\bin\Debug\VBOnyx.pdb
+D:\ONYX\VBOnyx\VBOnyx\bin\Debug\VBOnyx.xml
+D:\ONYX\VBOnyx\VBOnyx\obj\x86\Debug\VBOnyx.Resources.resources
+D:\ONYX\VBOnyx\VBOnyx\obj\x86\Debug\VBOnyx.vbproj.GenerateResource.Cache
+D:\ONYX\VBOnyx\VBOnyx\obj\x86\Debug\VBOnyx.ONYXLab2.resources
+D:\ONYX\VBOnyx\VBOnyx\obj\x86\Debug\VBOnyx.FMLab1.resources
+D:\ONYX\VBOnyx\VBOnyx\obj\x86\Debug\VBOnyx.ONYXLab3.resources
+D:\ONYX\VBOnyx\VBOnyx\obj\x86\Debug\VBOnyx.ONYXLab4.resources
